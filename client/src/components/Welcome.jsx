@@ -29,7 +29,7 @@ const Welcome = () => {
             Send crypto <br /> across the web
           </h1>
           <p className="text-left mt-5 text-white font-light mf:w-9/12 w-11/12 text-base">
-            Explore the crypto world with the world's most trusted and secure
+            Explore the crypto world with the world's most trusted exchange.
           </p>
           <button
             type="button"
@@ -88,7 +88,7 @@ const Welcome = () => {
                   onClick={handleSubmit}
                   className="text-white w-full mt-2 border-[1px] p-2 border-[#3d4f7c] hover:bg-[#3d4f7c] rounded-full cursor-pointer"
               >
-                  Send Now
+                  Send now
               </button>
               )}
 
